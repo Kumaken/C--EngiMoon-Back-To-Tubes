@@ -1,0 +1,145 @@
+[==========] Running 28 tests from 28 test cases.
+[----------] Global test environment set-up.
+[----------] 1 test from CellTest
+[ RUN      ] CellTest.test1
+[       OK ] CellTest.test1 (0 ms)
+[----------] 1 test from CellTest (0 ms total)
+
+[----------] 1 test from BarnTest
+[ RUN      ] BarnTest.test2
+[       OK ] BarnTest.test2 (0 ms)
+[----------] 1 test from BarnTest (0 ms total)
+
+[----------] 1 test from CoopTest
+[ RUN      ] CoopTest.test3
+[       OK ] CoopTest.test3 (0 ms)
+[----------] 1 test from CoopTest (0 ms total)
+
+[----------] 1 test from GrasslandTest
+[ RUN      ] GrasslandTest.test4
+[       OK ] GrasslandTest.test4 (0 ms)
+[----------] 1 test from GrasslandTest (0 ms total)
+
+[----------] 1 test from MixerTest
+[ RUN      ] MixerTest.test5
+[       OK ] MixerTest.test5 (0 ms)
+[----------] 1 test from MixerTest (0 ms total)
+
+[----------] 1 test from WellTest
+[ RUN      ] WellTest.test6
+[       OK ] WellTest.test6 (0 ms)
+[----------] 1 test from WellTest (0 ms total)
+
+[----------] 1 test from TruckTest
+[ RUN      ] TruckTest.test7
+[       OK ] TruckTest.test7 (0 ms)
+[----------] 1 test from TruckTest (0 ms total)
+
+[----------] 1 test from ChickenTest
+[ RUN      ] ChickenTest.test8
+[       OK ] ChickenTest.test8 (0 ms)
+[----------] 1 test from ChickenTest (0 ms total)
+
+[----------] 1 test from CowTest
+[ RUN      ] CowTest.test9
+[       OK ] CowTest.test9 (0 ms)
+[----------] 1 test from CowTest (0 ms total)
+
+[----------] 1 test from DuckTest
+[ RUN      ] DuckTest.test10
+[       OK ] DuckTest.test10 (0 ms)
+[----------] 1 test from DuckTest (0 ms total)
+
+[----------] 1 test from GoatTest
+[ RUN      ] GoatTest.test11
+[       OK ] GoatTest.test11 (0 ms)
+[----------] 1 test from GoatTest (0 ms total)
+
+[----------] 1 test from HorseTest
+[ RUN      ] HorseTest.test12
+[       OK ] HorseTest.test12 (0 ms)
+[----------] 1 test from HorseTest (0 ms total)
+
+[----------] 1 test from PigTest
+[ RUN      ] PigTest.test13
+[       OK ] PigTest.test13 (0 ms)
+[----------] 1 test from PigTest (0 ms total)
+
+[----------] 1 test from PlayerTest
+[ RUN      ] PlayerTest.test14
+[       OK ] PlayerTest.test14 (0 ms)
+[----------] 1 test from PlayerTest (0 ms total)
+
+[----------] 1 test from LinkedListTest
+[ RUN      ] LinkedListTest.test15
+[       OK ] LinkedListTest.test15 (0 ms)
+[----------] 1 test from LinkedListTest (0 ms total)
+
+[----------] 1 test from ChickenEgg
+[ RUN      ] ChickenEgg.test16
+[       OK ] ChickenEgg.test16 (0 ms)
+[----------] 1 test from ChickenEgg (0 ms total)
+
+[----------] 1 test from ChickenMeat
+[ RUN      ] ChickenMeat.test17
+[       OK ] ChickenMeat.test17 (0 ms)
+[----------] 1 test from ChickenMeat (0 ms total)
+
+[----------] 1 test from CowMeat
+[ RUN      ] CowMeat.test18
+[       OK ] CowMeat.test18 (0 ms)
+[----------] 1 test from CowMeat (0 ms total)
+
+[----------] 1 test from CowMilk
+[ RUN      ] CowMilk.test19
+[       OK ] CowMilk.test19 (0 ms)
+[----------] 1 test from CowMilk (0 ms total)
+
+[----------] 1 test from DuckEgg
+[ RUN      ] DuckEgg.test20
+[       OK ] DuckEgg.test20 (0 ms)
+[----------] 1 test from DuckEgg (0 ms total)
+
+[----------] 1 test from DuckMeat
+[ RUN      ] DuckMeat.test21
+[       OK ] DuckMeat.test21 (0 ms)
+[----------] 1 test from DuckMeat (0 ms total)
+
+[----------] 1 test from GoatMeat
+[ RUN      ] GoatMeat.test22
+[       OK ] GoatMeat.test22 (0 ms)
+[----------] 1 test from GoatMeat (0 ms total)
+
+[----------] 1 test from GoatMilk
+[ RUN      ] GoatMilk.test23
+[       OK ] GoatMilk.test23 (0 ms)
+[----------] 1 test from GoatMilk (0 ms total)
+
+[----------] 1 test from HorseMeat
+[ RUN      ] HorseMeat.test24
+[       OK ] HorseMeat.test24 (0 ms)
+[----------] 1 test from HorseMeat (0 ms total)
+
+[----------] 1 test from PigMeat
+[ RUN      ] PigMeat.test25
+[       OK ] PigMeat.test25 (0 ms)
+[----------] 1 test from PigMeat (0 ms total)
+
+[----------] 1 test from BaconOmelette
+[ RUN      ] BaconOmelette.test26
+[       OK ] BaconOmelette.test26 (0 ms)
+[----------] 1 test from BaconOmelette (0 ms total)
+
+[----------] 1 test from MixedCheese
+[ RUN      ] MixedCheese.test27
+[       OK ] MixedCheese.test27 (0 ms)
+[----------] 1 test from MixedCheese (0 ms total)
+
+[----------] 1 test from HorseRolade
+[ RUN      ] HorseRolade.test28
+[       OK ] HorseRolade.test28 (0 ms)
+[----------] 1 test from HorseRolade (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 28 tests from 28 test cases ran. (1 ms total)
+[  PASSED  ] 28 tests.
